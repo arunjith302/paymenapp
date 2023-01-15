@@ -1,6 +1,6 @@
 # Wallet_Payment_Application
 <hr>
-<li>An Collabrative Project Consisting Of the 5 Developer Depicting the implementation of the payemnt wallet online transaction platform
+
 <li>An developement of RESTful API for an Online Payment Wallet application. This API performs all the fundamental CRUD operations of any Online Wallet Banking platform with user validation at every step.
 <br>
   
@@ -17,24 +17,13 @@ The following Diagram depicts the flow of our Entity Relation Diagram to simplif
 <br>
 <hr>
   
-# Team Member Roles And Responsibilities
+
   
-<hr>
-<br>
-<br>
 
-1) Bivek Rai  -Team Lead, Responsible for creating and implementing the ER diagram and flow of the project.
 
-2) Yogesh Saini -Responsible for creating the Repository while making sure of proper implementation Of Controllers
 
-3) Shubham Randive -Responsible For handeling the Exceptions and Creating the Service Layer.
 
-4) Bhanu Prathap Goud -Responsible for The frontent Layer while implementing proper RESTful API naming Conventions.
 
-5) Partha Sarathi  -Responsible for Creating the login and logout Session layer with proper validation.
-
-<br>
-<br>
 
 # Teach Stacks Implemented
 <hr>
